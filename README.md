@@ -2,7 +2,7 @@
 - 😄 I love learning new stuff
 - :chess_pawn: I'm interested in music, chess and programming
 - 🌱 I’m currently learning golang!
-- 📫 How to reach me: cristianpo@live.com.ar Linkedin: https://www.linkedin.com/in/crisnlopez/
+- 📫 Linkedin: https://www.linkedin.com/in/crisnlopez/
 <!--
 **crisnlopez/crisnlopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
